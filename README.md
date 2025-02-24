@@ -8,7 +8,7 @@
 
 
 
-### 🌱  I do remain cautious when it comes to it, but I am not afraid to experiment with things
+### 🌱  I do remain cautious when it comes to it, but I like to experiment with things
 ### 📫  Reach out to me Lsaurabh.94@gmail.com
 ### 💬  You may head over to my repositories to know what I am usually upto 
 
