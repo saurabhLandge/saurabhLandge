@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-## ⚡  I do remain cautious when it comes to it, but I am not afraid to experiment with things
-## 📫  Reach out to me Lsaurabh.94@gmail.com
-## 💬  You may head over to my repositories to know what I am usually upto
+### ⚡  I do remain cautious when it comes to it, but I am not afraid to experiment with things
+### 📫  Reach out to me Lsaurabh.94@gmail.com
+### 💬  You may head over to my repositories to know what I am usually upto
 <!--
 **saurabhLandge/saurabhLandge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
